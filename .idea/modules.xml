@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hello_World/Hello_World.iml" filepath="$PROJECT_DIR$/Hello_World/Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDEA/IDEA.iml" filepath="$PROJECT_DIR$/IDEA/IDEA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Basic/Java_Basic.iml" filepath="$PROJECT_DIR$/Java_Basic/Java_Basic.iml" />
     </modules>
   </component>
