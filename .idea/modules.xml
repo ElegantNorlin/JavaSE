@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hello_World/Hello_World.iml" filepath="$PROJECT_DIR$/Hello_World/Hello_World.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IDEA/IDEA.iml" filepath="$PROJECT_DIR$/IDEA/IDEA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_Basic/Java_Basic.iml" filepath="$PROJECT_DIR$/Java_Basic/Java_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01Hello_World/01Hello_World.iml" filepath="$PROJECT_DIR$/01Hello_World/01Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02Java_Basic/02Java_Basic.iml" filepath="$PROJECT_DIR$/02Java_Basic/02Java_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03IDEA/03IDEA.iml" filepath="$PROJECT_DIR$/03IDEA/03IDEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Array/04Array.iml" filepath="$PROJECT_DIR$/04Array/04Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Method/05Method.iml" filepath="$PROJECT_DIR$/05Method/05Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Debug/06Debug.iml" filepath="$PROJECT_DIR$/06Debug/06Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07basic_exercise/07basic_exercise.iml" filepath="$PROJECT_DIR$/07basic_exercise/07basic_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Object_Oriented_Basic/08Object_Oriented_Basic.iml" filepath="$PROJECT_DIR$/08Object_Oriented_Basic/08Object_Oriented_Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09String/09String.iml" filepath="$PROJECT_DIR$/09String/09String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10StringBuilder/10StringBuilder.iml" filepath="$PROJECT_DIR$/10StringBuilder/10StringBuilder.iml" />
     </modules>
   </component>
 </project>
