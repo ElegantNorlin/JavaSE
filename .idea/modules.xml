@@ -12,6 +12,31 @@
       <module fileurl="file://$PROJECT_DIR$/08Object_Oriented_Basic/08Object_Oriented_Basic.iml" filepath="$PROJECT_DIR$/08Object_Oriented_Basic/08Object_Oriented_Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/09String/09String.iml" filepath="$PROJECT_DIR$/09String/09String.iml" />
       <module fileurl="file://$PROJECT_DIR$/10StringBuilder/10StringBuilder.iml" filepath="$PROJECT_DIR$/10StringBuilder/10StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11ArrayList/11ArrayList.iml" filepath="$PROJECT_DIR$/11ArrayList/11ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12StudentManagerSystem/12StudentManagerSystem.iml" filepath="$PROJECT_DIR$/12StudentManagerSystem/12StudentManagerSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13Extend/13Extend.iml" filepath="$PROJECT_DIR$/13Extend/13Extend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14Modifier/14Modifier.iml" filepath="$PROJECT_DIR$/14Modifier/14Modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15DuoTai/15DuoTai.iml" filepath="$PROJECT_DIR$/15DuoTai/15DuoTai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16Abstract/16Abstract.iml" filepath="$PROJECT_DIR$/16Abstract/16Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17Interface/17Interface.iml" filepath="$PROJECT_DIR$/17Interface/17Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18InnerClass/18InnerClass.iml" filepath="$PROJECT_DIR$/18InnerClass/18InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19Useful_API/19Useful_API.iml" filepath="$PROJECT_DIR$/19Useful_API/19Useful_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20Args/20Args.iml" filepath="$PROJECT_DIR$/20Args/20Args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21Exception/21Exception.iml" filepath="$PROJECT_DIR$/21Exception/21Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22JiHe/22JiHe.iml" filepath="$PROJECT_DIR$/22JiHe/22JiHe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23File/23File.iml" filepath="$PROJECT_DIR$/23File/23File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24recursion/24recursion.iml" filepath="$PROJECT_DIR$/24recursion/24recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25ByteStream/25ByteStream.iml" filepath="$PROJECT_DIR$/25ByteStream/25ByteStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26CharStream/26CharStream.iml" filepath="$PROJECT_DIR$/26CharStream/26CharStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27OtherStream/27OtherStream.iml" filepath="$PROJECT_DIR$/27OtherStream/27OtherStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28Thread/28Thread.iml" filepath="$PROJECT_DIR$/28Thread/28Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29Network/29Network.iml" filepath="$PROJECT_DIR$/29Network/29Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30Lambda/30Lambda.iml" filepath="$PROJECT_DIR$/30Lambda/30Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31Method_Reference/31Method_Reference.iml" filepath="$PROJECT_DIR$/31Method_Reference/31Method_Reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32Interface_Advance/32Interface_Advance.iml" filepath="$PROJECT_DIR$/32Interface_Advance/32Interface_Advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33Functional_Interface/33Functional_Interface.iml" filepath="$PROJECT_DIR$/33Functional_Interface/33Functional_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34Stream/34Stream.iml" filepath="$PROJECT_DIR$/34Stream/34Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35Reflect/35Reflect.iml" filepath="$PROJECT_DIR$/35Reflect/35Reflect.iml" />
     </modules>
   </component>
 </project>
